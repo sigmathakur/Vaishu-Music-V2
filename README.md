@@ -132,13 +132,13 @@ d
 <img title="Support" src="https://img.shields.io/badge/Support-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://t.me/BOTxBOOSTER">
+<a href="https://t.me/subbubots">
 <img title="Update" src="https://img.shields.io/badge/Update-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
 </a>
 </p>
 
 <p align="center">
-<a href="https://t.me/YourUsername">
+<a href="https://t.me/sigma_thakur">
 <img title="Owner" src="https://img.shields.io/badge/Owner-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
 </a>
 </p>

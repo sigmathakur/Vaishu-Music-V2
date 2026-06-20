@@ -128,7 +128,7 @@ d
 ## ᴄᴏɴᴛᴀᴄᴛ
 
 <p align="center">
-<a href="https://t.me/BotsSupport_36">
+<a href="https://t.me/sigma_support2">
 <img title="Support" src="https://img.shields.io/badge/Support-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
 </a>
 &nbsp;&nbsp;&nbsp;

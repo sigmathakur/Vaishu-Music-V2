@@ -6,75 +6,163 @@
     ───「 ᴠᴀɪsʜᴜ ᴍᴜsɪᴄ 」───
 </h2>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/3ubj8b.jpg" width="400">
+  <img src="https://i.ibb.co/BVksShtm/photo-AQADKh-Rr-Gxn-Wu-VV9.jpg" width="400">
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
+
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
 </p>
 
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+    ─「 ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/sigmathakur/Vaishu-Music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/reetsingh886/Vaishu-Music">
+<img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
+</a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
 
+<details>
+<summary><b>🖥️ ᴅᴇᴘʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ / ᴠᴘs</b></summary>
 
-
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ / ᴠᴘs 」─
-</h3>
+<br>
 
 - Get your [Necessary Variables](https://github.com/reetsingh886/Vaishu-Music/blob/main/sample.env)
-- Upgrade and Update by : `sudo apt-get update && sudo apt-get upgrade -y`
 
-- Install Ffmpeg & Python by :
-`sudo apt-get install python3-pip ffmpeg -y`
+### Upgrade and Update
 
-- Install pip by :
-`sudo pip3 install -U pip`
+```bash
+sudo apt-get update && sudo apt-get upgrade -y
+```
 
-- Install Node js by :
-`curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
+### Install Ffmpeg & Python
 
-- Clone the repository by :
-`git clone https://github.com/reetsingh886/Vaishu-Music && cd Vaishu-Music`
+```bash
+sudo apt-get install python3-pip ffmpeg -y
+```
 
-- Install requirements by :
-`pip3 install -U -r requirements.txt`
+### Install Pip
 
-- Fill your variables in the env by :
-`vi sample.env`<br>
-Press `I` on the keyboard for editing env<br>
-Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
+```bash
+sudo pip3 install -U pip
+```
 
-- Rename the env file by :
-`mv sample.env .env`
-- Install tmux to keep running your bot when you close the terminal by :
-`sudo apt install tmux && tmux`
+### Install NodeJS
 
-- Finally run the bot by :
-`bash start`
-- For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
+```bash
+curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
+```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Clone Repository
 
+```bash
+git clone https://github.com/reetsingh886/Vaishu-Music
+cd Vaishu-Music
+```
 
+### Install Requirements
 
-### ᴄᴏɴᴛᴀᴄᴛ :
+```bash
+pip3 install -U -r requirements.txt
+```
+
+### Configure Environment
+
+```bash
+vi sample.env
+```
+
+Press **I** to edit the file.
+
+Save with:
+
+```bash
+:wq
+```
+
+Rename env:
+
+```bash
+mv sample.env .env
+```
+
+### Install tmux
+
+```bash
+sudo apt install tmux && tmux
+```
+
+### Run Bot
+
+```bash
+bash start
+```
+
+### Exit tmux
+
+```text
+Ctrl+b
+d
+```
+
+</details>
+
 <p align="center">
-<a href="https://t.me/BotsSupport_36"><img title="Support" src="https://img.shields.io/badge/Support-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/BOTxBOOSTER"><img title="Update" src="https://img.shields.io/badge/Update-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## ᴄᴏɴᴛᴀᴄᴛ
+
+<p align="center">
+<a href="https://t.me/BotsSupport_36">
+<img title="Support" src="https://img.shields.io/badge/Support-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/BOTxBOOSTER">
+<img title="Update" src="https://img.shields.io/badge/Update-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
+</a>
+</p>
+
+<p align="center">
+<a href="https://t.me/YourUsername">
+<img title="Owner" src="https://img.shields.io/badge/Owner-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
+</a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
+
+<h2 align="center">
+    ───「 ᴛʜᴀɴᴋ ʏᴏᴜ 」───
+</h2>
+
+<p align="center">
+❖ ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ᴠɪꜱɪᴛɪɴɢ <b>ᴠᴀɪsʜᴜ ᴍᴜsɪᴄ</b><br><br>
+
+✦ ɪꜰ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ, ᴘʟᴇᴀꜱᴇ ɢɪᴠᴇ ɪᴛ ᴀ ⭐<br><br>
+
+✦ ꜱᴜᴘᴘᴏʀᴛ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ꜱʜᴀʀᴇ ɪᴛ ᴡɪᴛʜ ʏᴏᴜʀ ꜰʀɪᴇɴᴅꜱ<br><br>
+
+✦ ʜᴀᴘᴘʏ ꜱᴛʀᴇᴀᴍɪɴɢ 🎶<br><br>
+
+❤ ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴏᴠᴇ ʙʏ ᴠᴀɪsʜᴜ ᴍᴜsɪᴄ ❤
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>

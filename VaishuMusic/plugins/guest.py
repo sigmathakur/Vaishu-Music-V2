@@ -7,7 +7,7 @@ from pyrogram.types import (
     Message,
 )
 
-from ShiviMusic import app
+from VaishuMusic import app
 
 
 # ==========================================================
